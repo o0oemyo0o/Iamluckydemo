@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "186439249252",
+    "project_id": "i-am-lucky-first-version-12afd",
+    "storage_bucket": "i-am-lucky-first-version-12afd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:186439249252:android:b9f6034386dfe02c1b5e71",
+        "android_client_info": {
+          "package_name": "com.example.iamluckydemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "186439249252-o2hbofl9bc0oocoh8o1vksh6sjmc54gj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.iamluckydemo",
+            "certificate_hash": "9fec785bd020f3db57b35dae0cd6f0e29744f0b7"
+          }
+        },
+        {
+          "client_id": "186439249252-jgsou107kkafb93hhpl118p8c04lccvd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLwj4iI7bu6HTqR_XEyZx2hL5weFN7pfc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "186439249252-jgsou107kkafb93hhpl118p8c04lccvd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
